@@ -1,0 +1,8 @@
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\02-03\Calculadora_ParteII\Calculadora_ParteII\bin\Debug\Calculadora_ParteII.exe.config
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\02-03\Calculadora_ParteII\Calculadora_ParteII\bin\Debug\Calculadora_ParteII.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\02-03\Calculadora_ParteII\Calculadora_ParteII\bin\Debug\Calculadora_ParteII.pdb
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\02-03\Calculadora_ParteII\Calculadora_ParteII\obj\Debug\Calculadora_ParteII.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\02-03\Calculadora_ParteII\Calculadora_ParteII\obj\Debug\Calculadora_ParteII.pdb
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\09-03\Calculadora_ParteIII -  Sala de Aula\Calculadora_ParteII\bin\Debug\Calculadora_ParteII.exe.config
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\09-03\Calculadora_ParteIII -  Sala de Aula\Calculadora_ParteII\obj\Debug\Calculadora_ParteII.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\09-03\Calculadora_ParteIII -  Sala de Aula\Calculadora_ParteII\obj\Debug\Calculadora_ParteII.pdb

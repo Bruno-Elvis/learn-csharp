@@ -1,0 +1,11 @@
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\16-03\Calculadora_ParteIV -  Sala de Aula\Calculadora_ParteII\bin\Debug\Calculadora_ParteIV.exe.config
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\16-03\Calculadora_ParteIV -  Sala de Aula\Calculadora_ParteII\bin\Debug\Calculadora_ParteIV.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\16-03\Calculadora_ParteIV -  Sala de Aula\Calculadora_ParteII\bin\Debug\Calculadora_ParteIV.pdb
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\16-03\Calculadora_ParteIV -  Sala de Aula\Calculadora_ParteII\obj\Debug\Calculadora_ParteIV.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\16-03\Calculadora_ParteIV -  Sala de Aula\Calculadora_ParteII\obj\Debug\Calculadora_ParteIV.pdb
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\23-03\Calculadora_ParteV -  Herança\Calculadora_ParteII\bin\Debug\Calculadora_ParteIV.exe.config
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\23-03\Calculadora_ParteV -  Herança\Calculadora_ParteII\obj\Debug\Calculadora_ParteIV.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\23-03\Calculadora_ParteV -  Herança\Calculadora_ParteII\obj\Debug\Calculadora_ParteIV.pdb
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\23-03\Calculadora_ParteV -  Herança\Calculadora_ParteII\bin\Debug\Calculadora_ParteIV.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\23-03\Calculadora_ParteV -  Herança\Calculadora_ParteII\bin\Debug\Calculadora_ParteIV.pdb
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\23-03\Calculadora_ParteV -  Herança\Calculadora_ParteII\obj\Debug\Calculadora_ParteIV.csprojResolveAssemblyReference.cache
