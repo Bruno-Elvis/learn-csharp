@@ -1,0 +1,18 @@
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\bin\Debug\ExerciocioNota.exe.config
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\bin\Debug\ExerciocioNota.exe
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\bin\Debug\ExerciocioNota.pdb
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\obj\Debug\ExerciocioNota.csprojResolveAssemblyReference.cache
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\obj\Debug\ExerciocioNota.Form1.resources
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\obj\Debug\ExerciocioNota.Properties.Resources.resources
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\obj\Debug\ExerciocioNota.csproj.GenerateResource.Cache
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\obj\Debug\ExerciocioNota.exe
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\ExerciocioNota\ExerciocioNota\obj\Debug\ExerciocioNota.pdb
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\bin\Debug\ExerciocioNota.exe.config
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\bin\Debug\ExerciocioNota.exe
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\bin\Debug\ExerciocioNota.pdb
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\obj\Debug\ExerciocioNota.csprojResolveAssemblyReference.cache
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\obj\Debug\ExerciocioNota.Form1.resources
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\obj\Debug\ExerciocioNota.Properties.Resources.resources
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\obj\Debug\ExerciocioNota.csproj.GenerateResource.Cache
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\obj\Debug\ExerciocioNota.exe
+G:\ExerciocioForms (BrunoElvis, Jean Veríssimo, Luiz Sávio, Douglas Almeida)\ExerciocioNota\obj\Debug\ExerciocioNota.pdb
